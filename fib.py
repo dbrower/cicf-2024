@@ -7,5 +7,6 @@ def fib(n):
         n -= 1
     return a
 
-print([fib(x) for x in range(1,10)])
-    
+v = ([fib(x) for x in range(1,10)]
+for v in result:
+    print(v)
